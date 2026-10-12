@@ -85,7 +85,7 @@ export default function App() {
           reject,
           {
             enableHighAccuracy: true,
-            timeout: 15000,
+            timeout: 20000,
             maximumAge: 0,
           }
         );
