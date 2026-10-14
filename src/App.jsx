@@ -92,7 +92,6 @@ export default function App() {
       });
 
       const data = {
-        nameDispositive: navigator.userAgent,
         latitude: position.coords.latitude,
         longitude: position.coords.longitude,
       };
