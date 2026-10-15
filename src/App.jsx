@@ -170,7 +170,7 @@ export default function App() {
       <section className="redirect-card" style={styles.card}>
         <div style={styles.logoContainer}>
           <img
-            src="/icon-512.png"
+            src="/logo.jpeg"
             alt="Icono de la aplicación"
             style={styles.logo}
           />
