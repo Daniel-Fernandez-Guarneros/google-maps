@@ -61,7 +61,7 @@ export default function App() {
 
     redirectTimer.current = window.setTimeout(() => {
       window.location.replace(REDIRECT_URL);
-    }, 5000);
+    }, 3000);
   };
 
   const registerLocation = async () => {
